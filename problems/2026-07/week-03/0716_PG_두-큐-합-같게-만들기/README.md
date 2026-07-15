@@ -1,9 +1,9 @@
-# 미로 탈출
+# 두 큐 합 같게 만들기
 
-- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/159993)
+- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 - 날짜: 2026-07-16
 - 플랫폼: PG
-- 제한 시간: 40분
+- 제한 시간: 45분
 
 ## 풀이 기록
 

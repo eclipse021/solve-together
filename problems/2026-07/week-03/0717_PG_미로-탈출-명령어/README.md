@@ -1,9 +1,9 @@
-# 메뉴 리뉴얼
+# 미로 탈출 명령어
 
-- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/72411)
+- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
 - 날짜: 2026-07-17
 - 플랫폼: PG
-- 제한 시간: 40분
+- 제한 시간: 60분
 
 ## 풀이 기록
 
