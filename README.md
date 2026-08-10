@@ -35,6 +35,7 @@ templates/
 | 프로그래머스 | `PG` |
 | LeetCode | `LC` |
 | SWEA | `SWEA` |
+| 코드트리 | `CT` |
 
 ## 최소 규칙
 
