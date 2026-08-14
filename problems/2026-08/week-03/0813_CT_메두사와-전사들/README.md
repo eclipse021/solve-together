@@ -1,8 +1,8 @@
-# 가장 큰 수
+# 메두사와 전사들
 
-- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
+- 문제: [코드트리 문제 바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/medusa-and-warriors/description)
 - 날짜: 2026-08-13
-- 플랫폼: PG
+- 플랫폼: CT
 - 제한 시간: 40분
 
 ## 풀이 기록
