@@ -1,8 +1,8 @@
-# 숫자 변환하기
+# 메이즈 러너
 
-- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+- 문제: [코드트리 문제 바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/maze-runner/description)
 - 날짜: 2026-08-21
-- 플랫폼: PG
+- 플랫폼: CT
 - 제한 시간: 40분
 
 ## 풀이 기록
