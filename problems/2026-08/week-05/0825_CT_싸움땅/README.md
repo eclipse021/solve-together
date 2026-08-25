@@ -1,8 +1,8 @@
-# 광물 캐기
+# 싸움땅
 
-- 문제: [프로그래머스 문제 바로가기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)
+- 문제: [코드트리 문제 바로가기](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/battle-ground/description)
 - 날짜: 2026-08-25
-- 플랫폼: PG
+- 플랫폼: CT
 - 제한 시간: 40분
 
 ## 풀이 기록
